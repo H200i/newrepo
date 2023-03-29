@@ -1,3 +1,4 @@
 # newrepo
 
 hello
+hi
